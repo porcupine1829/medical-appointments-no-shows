@@ -24,16 +24,4 @@ This project focuses on cleaning and preprocessing raw data to make it suitable 
 - Python (Pandas, NumPy, scikit-learn)
 - Jupyter Notebook
 
-## 📁 Folder Structure
-project-root/
-│
-├── raw-data/
-│ └── KaggleV2-May-2016.csv
-|__processed-data/
-| └── medical-appointments.csv
-├── notebooks/
-│ └── preprocessing.ipynb # Main notebook
-├── README.md
-└── requirements.txt
-└── pyproject.toml
 
